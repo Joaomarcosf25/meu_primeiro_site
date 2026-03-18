@@ -13,7 +13,7 @@ Este é um site simples feito com HTML e CSS, onde você pode acessar vídeos at
 
 ## 🌐 Acesse o site
 
-👉 
+👉 https://joaomarcosf25.github.io/meu_primeiro_site/
 
 ## 📚 O que eu aprendi
 
